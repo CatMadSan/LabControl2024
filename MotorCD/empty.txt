@@ -1,0 +1,24 @@
+
+HEAD
+(1)  Magic ring 6 
+(2)  Sc, [Inc] x2, Sc, [Inc] x2             {10}
+(3)  Sc, [Sc, Inc] x2, Sc, [Sc, Inc] x2             {14}
+(4)  Sc, [Sc, Sc, Inc] x2, Sc, [Sc, Sc, Inc] x2             {18}
+(5) - (8) Sc alrededor             {18}
+(9) Sc, [Sc, Sc, Dec] x2, Sc, [Sc, Sc, Dec] x2             {14}
+(10) Sc, [Sc, Dec] x2, Sc, [Sc, Dec] x2             {10}
+(11) Sc, [Dec] x2, Sc, [Dec] x2             {6}
+ Close 
+
+HORNS
+(1) Magic ring 4
+(2) Inc, Sc x3               {5}
+(3) Sc x2, Bbl (3 loop max), Sc x2               {5}
+(4) Inc, Sc, Dec, Sc              {5}
+
+FEET
+(1) Magic ring 4
+(2) - (3) [Sc] x4             {4}
+(4) Inc, Sc x3             {5}
+(5) [Sc] x5             {5}
+(6) Inc, Sc x4             {6}
